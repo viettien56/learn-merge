@@ -2,6 +2,7 @@
 title: "Gaint Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites for everyone to learn."
 
+
 # Build settings
 markdown: kramdown
 sass:
