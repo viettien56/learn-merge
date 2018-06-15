@@ -1,6 +1,7 @@
 # Site settings
-title: "This is a template for learning merge"
-description: "A Jekyll and GitHub Pages sites."
+title: "Gaint Resume Template"
+description: "A resume template for Jekyll and GitHub Pages sites for everyone to learn."
+
 
 # Build settings
 markdown: kramdown
